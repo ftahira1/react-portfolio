@@ -11,8 +11,8 @@ Next go to my github and download the zip folder and by using GUI or your cursor
 ## Usage
 You can use this project by going to my Github account and clicking on my project repository and runnning the deployed page. 
 This is how my page looks on Ipad and Desktop : 
-<img src="./assets/images/desktop.jpg"/>
-This is how my page looks in an Iphone and mobile devices: <img src="./assets/images/iphone.jpg">
+<img src="./src/assets/screenshot-4.png"/>
+This is how my page looks in an Iphone and mobile devices: <img src="./src/assets/screenshot-5.png">
 
 Click here for deployed page: <a href="https://ftahira1.github.io/Portfolio/">Portfolio</a>
 
