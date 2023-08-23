@@ -1,0 +1,33 @@
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 250px;
+  }
+  nav a::after{
+    content: ' ';
+    width: 0% ;
+    display: block;
+    height: 1px;
+    background: var(--green);
+    position: relative;
+    right: 0%;
+    transition: all 1s linear;
+}
+
+nav a:hover::after{
+    width: 100%;
+}
+
+  nav a {
+    font-weight: bold;
+    text-decoration: none;
+    color:cornsilk;
+  }
+
+  @media screen and (min-width: 768px) {
+    nav ul {
+        display: flex;
+        justify-content: space-between;
+        min-width: 350px;
+      }
+  } 

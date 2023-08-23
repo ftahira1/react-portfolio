@@ -1,0 +1,22 @@
+h2 {
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .work {
+    padding: 0;
+    width: 88%;
+    height: 90%;
+    overflow: hidden;
+    border: 5px solid aquamarine;
+    filter: brightness(0.5);
+  }
+
+  .work:hover {
+    transform: scale(1.1);
+    border-style: dashed;
+    filter: brightness(1);
+    cursor: grab;
+  }

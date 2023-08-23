@@ -1,0 +1,9 @@
+.contact-me {
+    flex-direction: column;
+    padding: 1%;
+    min-height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: green;
+  }
